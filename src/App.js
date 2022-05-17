@@ -1,6 +1,6 @@
 import './App.css';
 
-
+//komentarz
 
 function App() {
   function pingFunction() {
