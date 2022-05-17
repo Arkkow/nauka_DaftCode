@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 
 
 function App() {
-  function pingFunction(){
+  function pingFunction() {
     alert('hello react')
   }
   return (
