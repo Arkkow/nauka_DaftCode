@@ -13,7 +13,7 @@ function App() {
           repo
         </a>
         <button onClick={pingFunction}>
-          Naciśnij mnie!
+        Test
         </button>
       </header>
     </div>
