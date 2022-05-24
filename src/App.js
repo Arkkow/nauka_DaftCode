@@ -1,6 +1,6 @@
 import './App.css';
 
-
+//komentarz
 
 function App() {
   function pingFunction() {
@@ -13,7 +13,7 @@ function App() {
           repo
         </a>
         <button onClick={pingFunction}>
-          Test
+        Test
         </button>
       </header>
     </div>
